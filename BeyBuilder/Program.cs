@@ -1,9 +1,11 @@
 using MudBlazor.Services;
 using BeyBuilder.Client.Pages;
 using BeyBuilder.Components;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
-
+//Registering DbContext in Depencency Injection
+builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 // Add MudBlazor services
 builder.Services.AddMudServices();
 
