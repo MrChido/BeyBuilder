@@ -1,3 +1,4 @@
+using System.ComponentModel.DataAnnotations;
 public class BeyTable
 {
     [Key]//This tells EF Core this is the Primary Key
