@@ -5542,11 +5542,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\raida\\Desktop\\BeyBuilder\\BeyBuilder\\BeyBuilder.csproj",
+      "projectUniqueName": "C:\\Users\\raida\\OneDrive\\Desktop\\BeyBuilder\\BeyBuilder\\BeyBuilder.csproj",
       "projectName": "BeyBuilder",
-      "projectPath": "C:\\Users\\raida\\Desktop\\BeyBuilder\\BeyBuilder\\BeyBuilder.csproj",
+      "projectPath": "C:\\Users\\raida\\OneDrive\\Desktop\\BeyBuilder\\BeyBuilder\\BeyBuilder.csproj",
       "packagesPath": "C:\\Users\\raida\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\raida\\Desktop\\BeyBuilder\\BeyBuilder\\obj\\",
+      "outputPath": "C:\\Users\\raida\\OneDrive\\Desktop\\BeyBuilder\\BeyBuilder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\raida\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5561,8 +5561,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\raida\\Desktop\\BeyBuilder\\BeyBuilder.Client\\BeyBuilder.Client.csproj": {
-              "projectPath": "C:\\Users\\raida\\Desktop\\BeyBuilder\\BeyBuilder.Client\\BeyBuilder.Client.csproj"
+            "C:\\Users\\raida\\OneDrive\\Desktop\\BeyBuilder\\BeyBuilder.Client\\BeyBuilder.Client.csproj": {
+              "projectPath": "C:\\Users\\raida\\OneDrive\\Desktop\\BeyBuilder\\BeyBuilder.Client\\BeyBuilder.Client.csproj"
             }
           }
         }
